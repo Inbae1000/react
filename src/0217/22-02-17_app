@@ -1,0 +1,27 @@
+
+//2022-02-17
+
+
+// class Ap extends Component{
+//   render() {
+//     return <Animal type="cat" name="meyow" size="small" sound="low" appearence="cute"></Animal>
+//   }
+// }
+
+
+// ================
+// <h1>Friend</h1>
+// ================
+// <Friend/>
+// ================
+// <h1>Person</h1>
+// ================
+// <Person/>
+// ================
+// <h1>Book</h1>
+// ================
+// <Book/>
+// ================
+// <h1>Animal</h1>
+// ================
+// <Ap/>
